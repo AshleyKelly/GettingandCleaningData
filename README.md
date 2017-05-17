@@ -8,7 +8,7 @@ output: html_document
 
 ## Getting and Cleaning Data - Course Project
 
-This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
+This is the README.md file for the Course Project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, includes a function run_analysis() works in the following order:
 
 First, if the dataset does not already exist in the working directory it will be downloaded. <br />
 Load the training, testing, activity and feature info. <br />
